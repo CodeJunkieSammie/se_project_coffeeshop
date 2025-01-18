@@ -187,37 +187,56 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .reservation__title {
   margin: 0 0 80px;
   text-align: center;
-}
-
-.form {
-  max-width: 385px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
 }
 
 .form__fieldset {
   padding: 0;
   margin: 0;
   border: none;
+  max-width: 385px;
 }
 
 .form__input {
   display: block;
-  width: 100%;
+  width: 385px;
   padding: 15px 20px;
   box-sizing: border-box;
   margin: 8px 0 32px;
   border: 1px solid #838383;
   color: #838383;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .form__button {
   border-radius: 4px;
   background-color: #1878dc;
   color: #ffffff;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  padding: 20px 0 20px 0;
+  width: 385px;
 }
 
 .form__button:hover {
