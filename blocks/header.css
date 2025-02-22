@@ -9,6 +9,7 @@
   color: black;
   background-color: #fff;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .header__image {
@@ -71,10 +72,4 @@
   justify-content: space-between;
   color: #6f6f6f;
   margin: 0;
-}
-
-.header__paragraph_address {
-  display: flex;
-  justify-content: flex-end;
-  margin-right: 80px;
 }

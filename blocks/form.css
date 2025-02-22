@@ -25,6 +25,7 @@
 }
 
 .form__button {
+  border-radius: 4px;
   background-color: #1878dc;
   color: #fff;
   font-family: Inter, arial, sans-serif;
