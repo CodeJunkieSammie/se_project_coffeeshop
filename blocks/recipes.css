@@ -1,9 +1,9 @@
 .recipes {
-  background: url(/images/background_recipes.svg);
+  background: url(../images/background_recipes.svg);
   background-color: #0a2750;
   background-repeat: no-repeat;
   background-size: cover;
-  color: #ffffff;
+  color: #fff;
 }
 
 .recipes__title {
@@ -51,4 +51,5 @@
 .recipes__iframe {
   height: 273px;
   width: 480px;
+  border: none;
 }
